@@ -10,7 +10,7 @@ Make is possible to compare two `Hand` objects using the `Comparable` interface.
 
 ## Exercise 3
 
-Extend the code of `Hand` to make is possible to compare two `Hand` objects using the `Comparator` interface. Implement two different hand comparison strategies, by increasing or decreasing number of cards in the hand. Define *static factory methods* in the `Hand` class to return anonymous instances of comparators for the different comparison strategies. You do not need to handle the case where the argument is `null`.
+Extend the code of `Hand` to make it possible to compare two `Hand` objects using the `Comparator` interface. Implement two different hand comparison strategies, by increasing or decreasing number of cards in the hand. Define *static factory methods* in the `Hand` class to return anonymous instances of comparators for the different comparison strategies. You do not need to handle the case where the argument is `null`.
 
 ## Exercise 4
 
